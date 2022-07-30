@@ -1,0 +1,7 @@
+README.md
+setup.py
+unicrypto.py
+unicrypto.egg-info/PKG-INFO
+unicrypto.egg-info/SOURCES.txt
+unicrypto.egg-info/dependency_links.txt
+unicrypto.egg-info/top_level.txt
