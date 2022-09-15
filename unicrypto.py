@@ -1,9 +1,21 @@
+'''
+
+unicrypto is a simple parser to find crypto addresses within files or folders
+
+and report basic information, such as transactions and balances, in a json
+
+output.
+
+copyright 2022 toys0ldier, issues/contact: github.com/toys0ldier
+
+'''
+
 import os
 import re
 import json
 import urllib3
 from timeit import default_timer as timer
-# import fitz
+import fitz
 import sys
 import coinaddrvalidator
 from attrs import asdict
